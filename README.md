@@ -1,5 +1,5 @@
 Synopsis
-
+==================
 This code is too short but only work with lowercases or uppercases.
 
 
