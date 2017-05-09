@@ -13,8 +13,6 @@ Tests
 ==================
 
 ./Palindrome Your string
-  or
-  ==
-./Palindrome wow
+
 
 
