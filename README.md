@@ -7,12 +7,12 @@ Compilation
 ==================
 
 gcc palindrome.c -o Palindrome 
--------------------------------------------
+
 
 Tests
 ==================
 
 ./Palindrome Your string
 -/Palindrome wow
--------------------------------------------
+
 
