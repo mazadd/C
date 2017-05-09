@@ -13,6 +13,8 @@ Tests
 ==================
 
 ./Palindrome Your string
--/Palindrome wow
+  or
+  ==
+./Palindrome wow
 
 
